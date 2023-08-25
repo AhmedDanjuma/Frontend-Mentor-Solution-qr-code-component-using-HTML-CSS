@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [](https://github.com/AhmedDanjuma/Frontend-Mentor-Solution-qr-code-component-using-HTML-CSS)
+- Live Site URL: [](https://ahmeddanjuma.github.io/Frontend-Mentor-Solution-qr-code-component-using-HTML-CSS/)
 
 ## My process
 I used HTML, CSS and Flexbox in CSS to build this project. I also used relevant websites to look up how to do use certain css properties.
